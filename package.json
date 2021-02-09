@@ -1,0 +1,16 @@
+{
+  "name": "backend-boilerplate",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "npm install",
+    "start": "nodemon ./src/server/index.js",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^5.4.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
