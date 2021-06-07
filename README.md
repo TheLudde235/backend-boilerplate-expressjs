@@ -1,4 +1,4 @@
-# Backend Boilerplate
+# Backend Boilerplate JS
 
 Use it for setting up a take-home interview assignment or a portfolio project.
 
