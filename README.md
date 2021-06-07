@@ -1,6 +1,6 @@
 # Backend Boilerplate JS
 
-Use it for setting up a take-home interview assignment or a portfolio project.
+A backbone for your coding challenge.
 
 ## Contents
 
@@ -8,11 +8,29 @@ Use it for setting up a take-home interview assignment or a portfolio project.
 - [API test suite](https://github.com/DevSkillsHQ/backend-boilerplate-js-express/blob/main/cypress/integration/backend.spec.js) - a Cypress test suite. Extend with your tests.
 - [Pipeline](https://github.com/DevSkillsHQ/backend-boilerplate-js-express/blob/main/.github/workflows/tests.yml) - a test Runner that executes the Cypress tests on push to a branch other than `master`/`main`.
 
-## Tech Stack
+## Getting started
 
-- Express 4
-- Cypress
-- GitHub Actions
+1. Make sure npm & node are configured on your local env. You can download those distributions for your platform [here](https://nodejs.org/en/download/).
+
+2. Build your app.
+
+```bash
+npm install
+npm run build
+```
+
+3. Start your app.
+
+```bash
+npm install
+npm run start
+```
+
+4. Run Cypress tests
+
+```bash
+npm run test
+```
 
 ---
 
