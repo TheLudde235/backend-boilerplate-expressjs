@@ -1,4 +1,4 @@
-# Backend Boilerplate JS
+# Backend Boilerplate ExpressJS
 
 A backbone for your coding challenge.
 
